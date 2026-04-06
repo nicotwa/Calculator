@@ -1,8 +1,5 @@
-```markdown
-Created by Nico Twardowski
-
 ## README - Calculator
-```markdown
+
 # Python Calculator
 
 A simple calculator build with Python.
