@@ -1,5 +1,3 @@
-## README - Calculator
-
 # Python Calculator
 
 A simple calculator build with Python.
